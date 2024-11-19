@@ -1,0 +1,8 @@
+Projeto com objetico de catalogar o valor de moedas de 20 paises comparadas com real.
+Segue a lista de paises:
+                         - Africa (África do Sul, Marrocos, Mauritânia, Sudã, Egito )
+                         - America (Argentina, Estados Unidos, Chile,  México,  Canadá)
+                         - Asia (Israel, Japão, China, Vietnã, Índia)
+                         - Europa (Rússia, Espanha, Reino Unido, Islândia, Alemanha)
+                         - Oceania(Austrália, Nova Zelândia, Papua, Nova Guiné, Tailândia)
+                         
